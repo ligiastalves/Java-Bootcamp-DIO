@@ -1,4 +1,4 @@
-package ExerciciosMetodos;
+package metodos.ExerciciosMetodos;
 //Calcule as 4 operações basicas: soma, subtração, multiplicacao e divisão. Sempre 2 valores devem ser passados.
 
 public class Calculadora {

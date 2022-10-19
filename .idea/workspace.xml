@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="" />
+    <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExercicioRetornos/ExerPratico01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/metodos/ExercicioRetornos/ExerPratico01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExercicioRetornos/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/metodos/ExercicioRetornos/Quadrilatero.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExerciciosMetodos/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/metodos/ExerciciosMetodos/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExerciciosMetodos/Emprestimo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/metodos/ExerciciosMetodos/Emprestimo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExerciciosMetodos/ExercPratico01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/metodos/ExerciciosMetodos/ExercPratico01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExerciciosMetodos/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/metodos/ExerciciosMetodos/Mensagem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExerciciosSobrecarga/ExerPatrico01.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/metodos/ExerciciosSobrecarga/ExerPatrico01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ExerciciosSobrecarga/Quadrilatero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/metodos/ExerciciosSobrecarga/Quadrilatero.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,13 +49,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExerPratico01">
-    <configuration name="ExerPatrico01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosSobrecarga.ExerPatrico01" />
+  <component name="RunManager" selected="Application.PlanoOperadora">
+    <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.CaixaEletronico" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosSobrecarga.*" />
+          <option name="PATTERN" value="controleFluxo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +76,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExercPratico01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExerciciosMetodos.ExercPratico01" />
+    <configuration name="PlanoOperadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.PlanoOperadora" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExerciciosMetodos.*" />
+          <option name="PATTERN" value="controleFluxo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ResultadoEscolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.ResultadoEscolar" />
+      <module name="Java-Bootcamp-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controleFluxo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SistemaMedida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.SistemaMedida" />
+      <module name="Java-Bootcamp-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controleFluxo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,9 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PlanoOperadora" />
+        <item itemvalue="Application.SistemaMedida" />
+        <item itemvalue="Application.ResultadoEscolar" />
+        <item itemvalue="Application.CaixaEletronico" />
         <item itemvalue="Application.ExerPratico01" />
-        <item itemvalue="Application.ExerPatrico01" />
-        <item itemvalue="Application.ExercPratico01" />
       </list>
     </recent_temporary>
   </component>

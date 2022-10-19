@@ -1,4 +1,4 @@
-package ExerciciosMetodos;
+package metodos.ExerciciosMetodos;
 
 public class ExercPratico01 {
 

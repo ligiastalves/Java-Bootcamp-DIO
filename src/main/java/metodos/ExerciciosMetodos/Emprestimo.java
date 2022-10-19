@@ -1,4 +1,4 @@
-package ExerciciosMetodos;
+package metodos.ExerciciosMetodos;
 //Calcule o valor final de um emprestimo a partir do valor solicitado.
 //taxas e parcelas influenciam. Defina arbitrariamente as faixas que influenciam os valores
 
