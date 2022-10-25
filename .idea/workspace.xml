@@ -41,13 +41,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PlanoOperadora">
-    <configuration name="CaixaEletronico" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controleFluxo.CaixaEletronico" />
+  <component name="RunManager" selected="Application.ExemploDoWhile">
+    <configuration name="ExemploBreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploBreakContinue" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controleFluxo.*" />
+          <option name="PATTERN" value="estruturasRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExerPratico01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioRetornos.ExerPratico01" />
+    <configuration name="ExemploDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploDoWhile" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ExercicioRetornos.*" />
+          <option name="PATTERN" value="estruturasRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlanoOperadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controleFluxo.PlanoOperadora" />
+    <configuration name="ExemploFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploFor" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controleFluxo.*" />
+          <option name="PATTERN" value="estruturasRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ResultadoEscolar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controleFluxo.ResultadoEscolar" />
+    <configuration name="ExemploForArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploForArray" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controleFluxo.*" />
+          <option name="PATTERN" value="estruturasRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -94,12 +94,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SistemaMedida" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controleFluxo.SistemaMedida" />
+    <configuration name="ExemploWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploWhile" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="controleFluxo.*" />
+          <option name="PATTERN" value="estruturasRepeticao.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PlanoOperadora" />
-        <item itemvalue="Application.SistemaMedida" />
-        <item itemvalue="Application.ResultadoEscolar" />
-        <item itemvalue="Application.CaixaEletronico" />
-        <item itemvalue="Application.ExerPratico01" />
+        <item itemvalue="Application.ExemploDoWhile" />
+        <item itemvalue="Application.ExemploWhile" />
+        <item itemvalue="Application.ExemploBreakContinue" />
+        <item itemvalue="Application.ExemploForArray" />
+        <item itemvalue="Application.ExemploFor" />
       </list>
     </recent_temporary>
   </component>
