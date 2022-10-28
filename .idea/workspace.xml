@@ -41,20 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ExemploDoWhile">
-    <configuration name="ExemploBreakContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploBreakContinue" />
-      <module name="Java-Bootcamp-DIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estruturasRepeticao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.FormatadorCepExemplo">
     <configuration name="ExemploDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploDoWhile" />
       <module name="Java-Bootcamp-DIO" />
@@ -68,12 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploFor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploFor" />
+    <configuration name="ExemploException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecoes.ExemploException" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasRepeticao.*" />
+          <option name="PATTERN" value="excecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploForArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploForArray" />
+    <configuration name="ExemploRuntimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecoes.ExemploRuntimeException" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasRepeticao.*" />
+          <option name="PATTERN" value="excecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -107,13 +94,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FormatadorCepExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecoes.FormatadorCepExemplo" />
+      <module name="Java-Bootcamp-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="excecoes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FormatadorCepExemplo" />
+        <item itemvalue="Application.ExemploRuntimeException" />
+        <item itemvalue="Application.ExemploException" />
         <item itemvalue="Application.ExemploDoWhile" />
         <item itemvalue="Application.ExemploWhile" />
-        <item itemvalue="Application.ExemploBreakContinue" />
-        <item itemvalue="Application.ExemploForArray" />
-        <item itemvalue="Application.ExemploFor" />
       </list>
     </recent_temporary>
   </component>
