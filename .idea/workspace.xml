@@ -41,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FormatadorCepExemplo">
+  <component name="RunManager" selected="Application.ExemploList">
     <configuration name="ExemploDoWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploDoWhile" />
       <module name="Java-Bootcamp-DIO" />
@@ -68,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploRuntimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecoes.ExemploRuntimeException" />
+    <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.ExemploList" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excecoes.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.ExemploWhile" />
+    <configuration name="ExemploRuntimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecoes.ExemploRuntimeException" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasRepeticao.*" />
+          <option name="PATTERN" value="excecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExemploList" />
         <item itemvalue="Application.FormatadorCepExemplo" />
         <item itemvalue="Application.ExemploRuntimeException" />
         <item itemvalue="Application.ExemploException" />
         <item itemvalue="Application.ExemploDoWhile" />
-        <item itemvalue="Application.ExemploWhile" />
       </list>
     </recent_temporary>
   </component>
