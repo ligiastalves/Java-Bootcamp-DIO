@@ -1,4 +1,6 @@
 package collections;
+import lombok.Getter;
+
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
@@ -49,7 +51,7 @@ public class OrdenacoesList {
 }
 
 class Gato implements Comparable<Gato> {
-
+    @Getter
     String nome;
     Integer idade;
     String cor;
@@ -59,19 +61,6 @@ class Gato implements Comparable<Gato> {
         this.idade = idade;
         this.cor = cor;
     }
-
-    public String getNome() {
-        return nome;
-    }
-
-    public Integer getIdade() {
-        return idade;
-    }
-
-    public String getCor() {
-        return cor;
-    }
-
 
     @Override
     public String toString() {
