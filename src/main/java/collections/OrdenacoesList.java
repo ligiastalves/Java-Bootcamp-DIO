@@ -16,7 +16,7 @@ public class OrdenacoesList {
     Gato 3 = nome: Jon, idade: 12, cor: amarelo
     */
 
-    public static void main(String[] args) {
+    /*public static void main(String[] args) {
 
         List<Gato> meusGatos = new ArrayList<>(){{
             add(new Gato("Jon", 18,"preto"));
@@ -80,7 +80,7 @@ class Gato implements Comparable<Gato> {
 class ComparatorIdade implements Comparator<Gato>{
 
     @Override
-    public int compare(Gato g1, Gato g2) {
+   // public int compare(Gato g1, Gato g2) {
         return Integer.compare(g1.getIdade(), g2.getIdade());
     }
 }
@@ -104,5 +104,5 @@ class ComparatorNomeIdadeCor implements Comparator<Gato>{
         if(cor != 0) return cor;
 
         return Integer.compare(g1.getIdade(), g2.getIdade());
-    }
+    }*/
 }

@@ -7,6 +7,12 @@
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/collections/OrdenacoesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/OrdenacoesList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/ComparatorCor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/ComparatorIdade.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/ComparatorNomeIdadeCor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/Gato.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/OrdenacoesList$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/collections/OrdenacoesList.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/collections/OrdenacoesList.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +48,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Usuario">
-    <configuration name="ExemploList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.ExemploList" />
+  <component name="RunManager" selected="Application.desafio">
+    <configuration name="Ex3_MaiorEMedia" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.loops.Ex3_MaiorEMedia" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="estruturasRepeticao.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +62,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FormatadorCepExemplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecoes.FormatadorCepExemplo" />
+    <configuration name="Ex4_ParEImpar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.loops.Ex4_ParEImpar" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excecoes.*" />
+          <option name="PATTERN" value="estruturasRepeticao.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrdenacoesList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.OrdenacoesList" />
+    <configuration name="Ex5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.loops.Ex5_Tabuada" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="estruturasRepeticao.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrdenacoesList1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.OrdenacoesList1" />
+    <configuration name="Ex6_Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.loops.Ex6_Fatorial" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.*" />
+          <option name="PATTERN" value="estruturasRepeticao.loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Usuario" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metodos.ExerciciosMetodos.Usuario" />
+    <configuration name="desafio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.desafio" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="metodos.ExerciciosMetodos.*" />
+          <option name="PATTERN" value="controleFluxo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Usuario" />
-        <item itemvalue="Application.OrdenacoesList" />
-        <item itemvalue="Application.OrdenacoesList1" />
-        <item itemvalue="Application.ExemploList" />
-        <item itemvalue="Application.FormatadorCepExemplo" />
+        <item itemvalue="Application.desafio" />
+        <item itemvalue="Application.Ex6_Fatorial" />
+        <item itemvalue="Application.Ex5_Tabuada" />
+        <item itemvalue="Application.Ex4_ParEImpar" />
+        <item itemvalue="Application.Ex3_MaiorEMedia" />
       </list>
     </recent_temporary>
   </component>
