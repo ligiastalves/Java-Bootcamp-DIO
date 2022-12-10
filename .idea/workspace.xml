@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controleFluxo/desafio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioFila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controleFluxo/desafio.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +41,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.desafioTurno">
+  <component name="RunManager" selected="Application.desafioMultiplo">
     <configuration name="Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.Arrays.Ex1_OrdemInversa" />
       <module name="Java-Bootcamp-DIO" />
@@ -57,25 +55,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_Tabuada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.loops.Ex5_Tabuada" />
+    <configuration name="desafioDesconto" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.desafioDesconto" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasRepeticao.loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex6_Fatorial" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.loops.Ex6_Fatorial" />
-      <module name="Java-Bootcamp-DIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="estruturasRepeticao.loops.*" />
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,6 +74,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="controleFluxo.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="desafioMultiplo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.desafioMultiplo" />
+      <module name="Java-Bootcamp-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.desafioMultiplo" />
+        <item itemvalue="Application.desafioDesconto" />
         <item itemvalue="Application.desafioTurno" />
         <item itemvalue="Application.Ex1_OrdemInversa" />
         <item itemvalue="Application.desafioFila" />
-        <item itemvalue="Application.Ex6_Fatorial" />
-        <item itemvalue="Application.Ex5_Tabuada" />
       </list>
     </recent_temporary>
   </component>
