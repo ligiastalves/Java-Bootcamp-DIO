@@ -1,8 +1,8 @@
-package controleFluxo;
+package controleFluxo.desafios;
 
 import java.util.Scanner;
 
-public class desafio {
+public class desafioFila {
 
     public static void main(String[] args) {
 
