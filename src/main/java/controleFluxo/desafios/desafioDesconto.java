@@ -1,4 +1,4 @@
-package collections;
+package controleFluxo.desafios;
 
 /*A entrada deverá ser feita por dois valores M e D, onde a primeira linha deverá receber o valor marcado do produto,
 e na segunda linha o valor do produto com o desconto já aplicado.

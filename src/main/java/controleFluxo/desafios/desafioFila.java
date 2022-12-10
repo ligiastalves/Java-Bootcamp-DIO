@@ -18,6 +18,5 @@ public class desafioFila {
             posicao = i+1;
             System.out.println(nomesFila[i] + " - esta na posicao: " + posicao);
         }
-
     }
 }
