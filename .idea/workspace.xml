@@ -6,12 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/desafioDesconto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioDesconto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/desafioMultiplo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioFila.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioFila.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioMultiplo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioMultiplo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/collections/desafioDesconto.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controleFluxo/desafios/desafioFila.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/controleFluxo/desafios/desafioFila.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +41,22 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.controleFluxo.desafios.desafioMultiplo">
-    <configuration name="Ex1_OrdemInversa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.Arrays.Ex1_OrdemInversa" />
+  <component name="RunManager" selected="Application.Ex3_NumerosAleatorios">
+    <configuration name="Ex2_Consoantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.Arrays.Ex2_Consoantes" />
+      <module name="Java-Bootcamp-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="estruturasRepeticao.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex3_NumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.Arrays.Ex3_NumerosAleatorios" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
@@ -100,26 +107,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="desafioTurno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controleFluxo.desafios.desafioTurno" />
-      <module name="Java-Bootcamp-DIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controleFluxo.desafios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex3_NumerosAleatorios" />
+        <item itemvalue="Application.Ex2_Consoantes" />
         <item itemvalue="Application.controleFluxo.desafios.desafioMultiplo" />
         <item itemvalue="Application.desafioDesconto" />
         <item itemvalue="Application.desafioMultiplo" />
-        <item itemvalue="Application.desafioTurno" />
-        <item itemvalue="Application.Ex1_OrdemInversa" />
       </list>
     </recent_temporary>
   </component>
