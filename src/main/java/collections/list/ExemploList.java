@@ -1,17 +1,16 @@
-package collections;
+package collections.list;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-//Dada um lista comnotas de um aluno [7,8.5,9.3,5,7,0,3.6] faca:
+//Dada um lista com 7 notas de um aluno [7,8.5,9.3,5,7,0,3.6] faca:
 public class ExemploList {
-    //Dada um lista comnotas de um aluno [7,8.5,9.3,5,7,0,3.6] faca:
 
     public static void main(String[] args) {
 
-        System.out.println("Crie uma lista e adcione as sete notas: ");
+        System.out.println("Crie uma lista e adicione as sete notas: ");
 
         List<Double> notas = new ArrayList<>();
         notas.add(7.0);
