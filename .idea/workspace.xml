@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/ExemploList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/ExemploList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/OrdenacoesList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/list/OrdenacoesList.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,11 +44,14 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="collections.set" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CalculadoraDeMedias">
+  <component name="RunManager" selected="Application.OrdenacaoSet">
     <configuration name="CalculadoraDeMedias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="debbuging.CalculadoraDeMedias" />
       <module name="Java-Bootcamp-DIO" />
@@ -64,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4_ArrayMultidimensional" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="estruturasRepeticao.Arrays.Ex4_ArrayMultidimensional" />
+    <configuration name="ExemploSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.set.ExemploSet" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="estruturasRepeticao.Arrays.*" />
+          <option name="PATTERN" value="collections.set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.set.ExemploSet" />
+    <configuration name="OrdenacaoSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.set.OrdenacaoSet" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.OrdenacaoSet" />
         <item itemvalue="Application.CalculadoraDeMedias" />
         <item itemvalue="Application.PilhaExecucao" />
         <item itemvalue="Application.ExemploSet" />
         <item itemvalue="Application.RodarAplicacao" />
-        <item itemvalue="Application.Ex4_ArrayMultidimensional" />
       </list>
     </recent_temporary>
   </component>
