@@ -51,20 +51,7 @@
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.OrdenacaoMap">
-    <configuration name="CalculadoraDeMedias" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="debbuging.CalculadoraDeMedias" />
-      <module name="Java-Bootcamp-DIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="debbuging.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.desafioPizza">
     <configuration name="ExemploMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.map.ExemploMap" />
       <module name="Java-Bootcamp-DIO" />
@@ -91,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrdenacaoSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.set.OrdenacaoSet" />
+    <configuration name="desafioFlechaEscudoEspada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.desafios.desafioFlechaEscudoEspada" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.set.*" />
+          <option name="PATTERN" value="controleFluxo.desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +91,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PilhaExecucao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="debbuging.PilhaExecucao" />
+    <configuration name="desafioNumeroFeliz" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.desafios.desafioNumeroFeliz" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="debbuging.*" />
+          <option name="PATTERN" value="controleFluxo.desafios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="desafioPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.desafios.desafioPizza" />
+      <module name="Java-Bootcamp-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="controleFluxo.desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.desafioPizza" />
+        <item itemvalue="Application.desafioNumeroFeliz" />
+        <item itemvalue="Application.desafioFlechaEscudoEspada" />
         <item itemvalue="Application.OrdenacaoMap" />
         <item itemvalue="Application.ExemploMap" />
-        <item itemvalue="Application.OrdenacaoSet" />
-        <item itemvalue="Application.CalculadoraDeMedias" />
-        <item itemvalue="Application.PilhaExecucao" />
       </list>
     </recent_temporary>
   </component>
