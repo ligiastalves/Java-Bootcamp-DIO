@@ -51,9 +51,9 @@
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.desafioPizza">
-    <configuration name="ExemploMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.map.ExemploMap" />
+  <component name="RunManager" selected="Application.desafioEmboscadaRPG">
+    <configuration name="OrdenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.map.OrdenacaoMap" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
@@ -65,12 +65,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrdenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.map.OrdenacaoMap" />
+    <configuration name="desafioEmboscadaRPG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.desafios.desafioEmboscadaRPG" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.map.*" />
+          <option name="PATTERN" value="controleFluxo.desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.desafioEmboscadaRPG" />
         <item itemvalue="Application.desafioPizza" />
         <item itemvalue="Application.desafioNumeroFeliz" />
         <item itemvalue="Application.desafioFlechaEscudoEspada" />
         <item itemvalue="Application.OrdenacaoMap" />
-        <item itemvalue="Application.ExemploMap" />
       </list>
     </recent_temporary>
   </component>
