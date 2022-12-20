@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioNumeroFeliz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioNumeroFeliz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioDiferenca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioDiferenca.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +52,13 @@
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.desafioNumeroFeliz">
-    <configuration name="OrdenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.map.OrdenacaoMap" />
+  <component name="RunManager" selected="Application.desafioDiferenca">
+    <configuration name="desafioDiferenca" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="controleFluxo.desafios.desafioDiferenca" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.map.*" />
+          <option name="PATTERN" value="controleFluxo.desafios.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -120,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.desafioDiferenca" />
         <item itemvalue="Application.desafioNumeroFeliz" />
         <item itemvalue="Application.desafioEmboscadaRPG" />
         <item itemvalue="Application.desafioPizza" />
         <item itemvalue="Application.desafioFlechaEscudoEspada" />
-        <item itemvalue="Application.OrdenacaoMap" />
       </list>
     </recent_temporary>
   </component>

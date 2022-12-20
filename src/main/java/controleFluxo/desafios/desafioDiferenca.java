@@ -31,6 +31,15 @@ public class desafioDiferenca {
 
         int[] ints = Arrays.stream(split).mapToInt(Integer::new).toArray();
 
+        int produto=1;
+        int soma= 0;
+        int resultado=0;
+
+        for(int number : ints){
+            produto *= number;
+            soma += number;
+        }
+        System.out.println(resultado = produto - soma);
 
     }
 }
