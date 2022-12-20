@@ -1,9 +1,6 @@
 package controleFluxo.desafios;
 
-import java.util.ArrayList;
-import java.util.Iterator;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
 /*
 Um número feliz é um número definido pelo seguinte processo:
 
@@ -27,18 +24,34 @@ Ex2: 2 - False
 
 public class desafioNumeroFeliz {
 
+    static int quadradoDigito(int n) {
+        int digito;
+        int quadrado = 0;
+        while (n > 0) {
+            digito = n % 10;
+            quadrado += digito * digito;
+            n /= 10;
+        }
+        return quadrado;
+    }
+    static boolean numFeliz(int n) {
+        HashSet<Integer> s = new HashSet<Integer>();
+        s.add(n);
+        while (n != 0) {
+            if (n == 1) return true;
+            n = quadradoDigito(n);
+            if ((s.contains(n)) && n != (int) s.toArray()[s.size() - 1]) return false;
+            s.add(n);
+        }
+        return false;
+    }
+
     public static void main(String[] args) {
 
-        boolean numFeliz;
         Scanner scan = new Scanner(System.in);
 
         System.out.println("Digite um numero inteiro: ");
         int num = scan.nextInt();
-
-        double quadradoDoNum = (Math.pow(num, 2));
-        System.out.println("O quadrado de " + num + " é: " + quadradoDoNum);
-
-
+        System.out.println(numFeliz(num));
     }
 }
-

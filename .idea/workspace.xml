@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioNumeroFeliz.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/controleFluxo/desafios/desafioNumeroFeliz.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +52,7 @@
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.desafioEmboscadaRPG">
+  <component name="RunManager" selected="Application.desafioNumeroFeliz">
     <configuration name="OrdenacaoMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.map.OrdenacaoMap" />
       <module name="Java-Bootcamp-DIO" />
@@ -119,9 +120,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.desafioNumeroFeliz" />
         <item itemvalue="Application.desafioEmboscadaRPG" />
         <item itemvalue="Application.desafioPizza" />
-        <item itemvalue="Application.desafioNumeroFeliz" />
         <item itemvalue="Application.desafioFlechaEscudoEspada" />
         <item itemvalue="Application.OrdenacaoMap" />
       </list>
