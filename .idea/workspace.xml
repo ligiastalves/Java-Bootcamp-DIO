@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/list/OrdenacoesList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/collections/stream/StreamParte2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/collections/stream/StreamParte2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +51,22 @@
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StreamParte1">
+  <component name="RunManager" selected="Application.StreamParte2">
     <configuration name="StreamParte1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="collections.stream.StreamParte1" />
+      <module name="Java-Bootcamp-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="collections.stream.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamParte2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="collections.stream.StreamParte2" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
@@ -106,26 +117,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="desafioPizza" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="controleFluxo.desafios.desafioPizza" />
-      <module name="Java-Bootcamp-DIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="controleFluxo.desafios.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StreamParte2" />
         <item itemvalue="Application.StreamParte1" />
         <item itemvalue="Application.desafioDiferenca" />
         <item itemvalue="Application.desafioNumeroFeliz" />
         <item itemvalue="Application.desafioEmboscadaRPG" />
-        <item itemvalue="Application.desafioPizza" />
       </list>
     </recent_temporary>
   </component>
