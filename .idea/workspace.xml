@@ -45,13 +45,14 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="excecoes" />
       <recent name="collections.set" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionCustomizada_1">
+  <component name="RunManager" selected="Application.ExceptionCustomizada_2">
     <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="excecoes.CheckedException" />
       <module name="Java-Bootcamp-DIO" />
@@ -78,8 +79,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExemploRuntimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecoes.ExemploRuntimeException" />
+    <configuration name="ExceptionCustomizada_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecoes.ExceptionCustomizada_2" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
@@ -91,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StreamParte2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="collections.stream.StreamParte2" />
+    <configuration name="ExemploRuntimeException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="excecoes.ExemploRuntimeException" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="collections.stream.*" />
+          <option name="PATTERN" value="excecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ExceptionCustomizada_2" />
         <item itemvalue="Application.ExceptionCustomizada_1" />
         <item itemvalue="Application.CheckedException" />
         <item itemvalue="Application.UncheckedException" />
         <item itemvalue="Application.ExemploRuntimeException" />
-        <item itemvalue="Application.StreamParte2" />
       </list>
     </recent_temporary>
   </component>
