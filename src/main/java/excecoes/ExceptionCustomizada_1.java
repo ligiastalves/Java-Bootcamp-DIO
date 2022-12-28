@@ -1,9 +1,8 @@
 package excecoes;
-
 import javax.swing.*;
 import java.io.*;
-
 public class ExceptionCustomizada_1 {
+
     public static void main(String[] args) {
         String nomeDoArquivo = JOptionPane.showInputDialog("Nome do arquivo a ser exibido: ");
 
@@ -64,5 +63,4 @@ class ImpossivelAberturaDeArquivoException extends Exception {
                 ", diretorio='" + diretorio + '\'' +
                 '}';
     }
-
 }
