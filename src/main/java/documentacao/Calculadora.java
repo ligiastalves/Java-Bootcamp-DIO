@@ -1,4 +1,4 @@
-package javadoc;
+package documentacao;
 //exemplo de classe documentada
 
 /**
