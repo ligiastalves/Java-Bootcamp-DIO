@@ -8,9 +8,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/javadoc/Calculadora.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/documentacao/Calculadora.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -42,6 +42,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "last_opened_file_path": "C:/Users/euder/Desktop/Ligia/Meus projetos/Java-Bootcamp-DIO",
     "project.structure.last.edited": "Libraries",
     "project.structure.proportion": "0.0",
@@ -54,30 +56,23 @@
       <recent name="excecoes" />
       <recent name="collections.set" />
     </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="testes" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExceptionCustomizada_1">
+  <component name="RunManager" selected="JUnit.PessoaTest.retornarSeEhMaiorDeIdade">
     <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="documentacao.Calculadora" />
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="documentacao.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecoes.CheckedException" />
-      <module name="Java-Bootcamp-DIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="excecoes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,26 +106,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UncheckedException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecoes.UncheckedException" />
+    <configuration name="PessoaTest.retornarSeEhMaiorDeIdade" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excecoes.*" />
+          <option name="PATTERN" value="testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.PessoaTest" />
+      <option name="METHOD_NAME" value="retornarSeEhMaiorDeIdade" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PessoaTest.validarCalculoIdade" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Bootcamp-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testes" />
+      <option name="MAIN_CLASS_NAME" value="testes.PessoaTest" />
+      <option name="METHOD_NAME" value="validarCalculoIdade" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PessoaTest.retornarSeEhMaiorDeIdade" />
+        <item itemvalue="JUnit.PessoaTest.validarCalculoIdade" />
         <item itemvalue="Application.ExceptionCustomizada_1" />
         <item itemvalue="Application.Calculadora" />
         <item itemvalue="Application.ExceptionCustomizada_2" />
-        <item itemvalue="Application.CheckedException" />
-        <item itemvalue="Application.UncheckedException" />
       </list>
     </recent_temporary>
   </component>
