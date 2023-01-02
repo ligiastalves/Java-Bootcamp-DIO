@@ -18,4 +18,13 @@ class PessoaTest {
         Pessoa pessoa = new Pessoa("Ligia", LocalDate.of(2020,1,1));
         Assertions.assertFalse(pessoa.ehMaiorDeIdade());
     }
+
+    @Test
+    void ValidarSeObjetoEstaNulo(){
+        Pessoa pessoa = null;
+        Assertions.assertNull(pessoa);
+
+        Pessoa pessoa1 = new Pessoa("Jose", LocalDate.now());
+        Assertions.assertNotNull(pessoa1);
+    }
 }
