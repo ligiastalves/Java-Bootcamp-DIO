@@ -9,6 +9,19 @@
   <component name="ChangeListManager">
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testes/BancoDeDados.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesJunit/BancoDeDados.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testes/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesJunit/Conta.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testes/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesJunit/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/testes/TransferenciasEntreContas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesJunit/TransferenciasEntreContas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/AssumptionsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesJunit/AssumptionsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/CondicionaisTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesJunit/CondicionaisTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/ConsultarDadosDePessoaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesJunit/ConsultarDadosDePessoaTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/EscolhendoAOrdemDosTest1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesJunit/EscolhendoAOrdemDosTest1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/EscolhendoAOrdemDosTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesJunit/EscolhendoAOrdemDosTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/EscolhendoAOrdemDosTest3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesJunit/EscolhendoAOrdemDosTest3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/ExceptionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesJunit/ExceptionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testes/PessoaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesJunit/PessoaTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -65,79 +78,81 @@
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ConsultarDadosDePessoaTest.validarDadosDeRetorno">
-    <configuration name="ExceptionCustomizada_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="excecoes.ExceptionCustomizada_1" />
+  <component name="RunManager" selected="JUnit.ContaTest.validaQuantidadeDeChamadas">
+    <configuration name="CadastrarPessoaTest.validadrDadosDeCadastro" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="excecoes.*" />
+          <option name="PATTERN" value="testesMockito.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConsultarDadosDePessoaTest.validarDadosDeRetorno" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java-Bootcamp-DIO" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="testes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="testes" />
-      <option name="MAIN_CLASS_NAME" value="testes.ConsultarDadosDePessoaTest" />
-      <option name="METHOD_NAME" value="validarDadosDeRetorno" />
+      <option name="PACKAGE_NAME" value="testesMockito" />
+      <option name="MAIN_CLASS_NAME" value="testesMockito.CadastrarPessoaTest" />
+      <option name="METHOD_NAME" value="validadrDadosDeCadastro" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTest.ValidarSeObjetoEstaNulo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testes.*" />
+          <option name="PATTERN" value="testesMockito.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testes" />
-      <option name="MAIN_CLASS_NAME" value="testes.PessoaTest" />
-      <option name="METHOD_NAME" value="ValidarSeObjetoEstaNulo" />
+      <option name="PACKAGE_NAME" value="testesMockito" />
+      <option name="MAIN_CLASS_NAME" value="testesMockito.ContaTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContaTest.validaQuantidadeDeChamadas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java-Bootcamp-DIO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testesMockito.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testesMockito" />
+      <option name="MAIN_CLASS_NAME" value="testesMockito.ContaTest" />
+      <option name="METHOD_NAME" value="validaQuantidadeDeChamadas" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTest.retornarSeEhMaiorDeIdade" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ContaTest.verificaAOrdemDasChamadas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testes.*" />
+          <option name="PATTERN" value="testesMockito.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testes" />
-      <option name="MAIN_CLASS_NAME" value="testes.PessoaTest" />
-      <option name="METHOD_NAME" value="retornarSeEhMaiorDeIdade" />
+      <option name="PACKAGE_NAME" value="testesMockito" />
+      <option name="MAIN_CLASS_NAME" value="testesMockito.ContaTest" />
+      <option name="METHOD_NAME" value="verificaAOrdemDasChamadas" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PessoaTest.validarCalculoIdade" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="EnviarMensagemTest.verificarComportamentoDaClasse" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testes.*" />
+          <option name="PATTERN" value="testesMockito.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testes" />
-      <option name="MAIN_CLASS_NAME" value="testes.PessoaTest" />
-      <option name="METHOD_NAME" value="validarCalculoIdade" />
+      <option name="PACKAGE_NAME" value="testesMockito" />
+      <option name="MAIN_CLASS_NAME" value="testesMockito.EnviarMensagemTest" />
+      <option name="METHOD_NAME" value="verificarComportamentoDaClasse" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -145,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.ConsultarDadosDePessoaTest.validarDadosDeRetorno" />
-        <item itemvalue="JUnit.PessoaTest.ValidarSeObjetoEstaNulo" />
-        <item itemvalue="JUnit.PessoaTest.retornarSeEhMaiorDeIdade" />
-        <item itemvalue="JUnit.PessoaTest.validarCalculoIdade" />
-        <item itemvalue="Application.ExceptionCustomizada_1" />
+        <item itemvalue="JUnit.ContaTest.validaQuantidadeDeChamadas" />
+        <item itemvalue="JUnit.ContaTest.verificaAOrdemDasChamadas" />
+        <item itemvalue="JUnit.ContaTest" />
+        <item itemvalue="JUnit.EnviarMensagemTest.verificarComportamentoDaClasse" />
+        <item itemvalue="JUnit.CadastrarPessoaTest.validadrDadosDeCadastro" />
       </list>
     </recent_temporary>
   </component>
