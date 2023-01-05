@@ -15,6 +15,8 @@ import org.mockito.junit.jupiter.MockitoExtension;
 import java.beans.AppletInitializer;
 import java.time.LocalDate;
 
+import static org.mockito.ArgumentMatchers.anyString;
+
 @ExtendWith(MockitoExtension.class)
 public class CadastrarPessoaTest {
 
@@ -25,9 +27,10 @@ public class CadastrarPessoaTest {
     private CadastrarPessoa cadastrarPessoa;
 
     @Test
-    void validadrDadosDeCadastro(){
+    void validadarDadosDeCadastro(){
         DadosLocalizacao dadosLocalizacao = new DadosLocalizacao("MG", "Patos de Minas", "Rua 2", "Apto", "Centro");
-        Mockito.when(apiDosCorreios.buscaDadosComBaseNoCep("741852963")).thenReturn(dadosLocalizacao);
+        //Mockito.when(apiDosCorreios.buscaDadosComBaseNoCep("741852963")).thenReturn(dadosLocalizacao);
+        Mockito.when(apiDosCorreios.buscaDadosComBaseNoCep(anyString())).thenReturn(dadosLocalizacao); // matches
         Pessoa pessoa = cadastrarPessoa.cadastrarPessoa("Ligia", "123654789", LocalDate.now(), "741852963");
 
         Assertions.assertEquals("Ligia", pessoa.getNome());
@@ -36,4 +39,15 @@ public class CadastrarPessoaTest {
         Assertions.assertEquals("Apto", pessoa.getEndereco().getComplemento());
     }
 
+    @Test
+    void lancarExceptionQuandoChamarApiDosCorreios(){
+
+        //Mockito.when(apiDosCorreios.buscaDadosComBaseNoCep(anyString())).thenThrow(IllegalArgumentException.class);
+        //outra forma
+        Mockito.doThrow(IllegalArgumentException.class)
+                .when(apiDosCorreios)
+                .buscaDadosComBaseNoCep(anyString());
+
+        Assertions.assertThrows(IllegalArgumentException.class, () -> cadastrarPessoa.cadastrarPessoa("Ligia", "123654789", LocalDate.now(), "741852963"));
+    }
 }

@@ -3,6 +3,7 @@ package testesMockito;
 import TestesMockito.Conta;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
+import org.mockito.ArgumentMatchers;
 import org.mockito.InOrder;
 import org.mockito.Mockito;
 import org.mockito.Spy;
@@ -48,4 +49,11 @@ public class ContaTest {
 
         Mockito.verify(conta, Mockito.times(1)).validaSaldo(300);
     }
+
+    @Test
+    void validaTrueParaQualquerValorNaValidacaoDoSaldo(){
+        Mockito.doNothing().when(conta).validaSaldo(ArgumentMatchers.anyInt());
+        conta.validaSaldo(3500);
+    }
+
 }
