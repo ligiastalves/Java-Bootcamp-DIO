@@ -1,4 +1,4 @@
-package TestesMockito;
+package testesMockito;
 
 public class PlataformaDeEnvio {
 

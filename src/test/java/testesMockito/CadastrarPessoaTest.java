@@ -1,9 +1,5 @@
 package testesMockito;
 
-import TestesMockito.ApiDosCorreios;
-import TestesMockito.CadastrarPessoa;
-import TestesMockito.DadosLocalizacao;
-import TestesMockito.Pessoa;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
@@ -12,7 +8,6 @@ import org.mockito.Mock;
 import org.mockito.Mockito;
 import org.mockito.junit.jupiter.MockitoExtension;
 
-import java.beans.AppletInitializer;
 import java.time.LocalDate;
 
 import static org.mockito.ArgumentMatchers.anyString;

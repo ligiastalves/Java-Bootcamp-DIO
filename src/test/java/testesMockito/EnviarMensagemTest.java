@@ -1,7 +1,5 @@
 package testesMockito;
 
-import TestesMockito.EnviarMensagem;
-import TestesMockito.Mensagem;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;

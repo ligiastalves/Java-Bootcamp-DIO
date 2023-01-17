@@ -1,4 +1,4 @@
-package TestesMockito;
+package testesMockito;
 /**
  * Classe ficticia que faz o papel de uma integração com a API dos Correios
  */

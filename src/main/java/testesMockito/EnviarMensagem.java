@@ -1,4 +1,4 @@
-package TestesMockito;
+package testesMockito;
 
 import java.util.ArrayList;
 import java.util.Collections;
