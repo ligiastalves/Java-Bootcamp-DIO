@@ -1,4 +1,4 @@
-package testesSeleniumWebDriver;
+package testesSeleniumWebDriver.testes;
 
 import static org.junit.jupiter.api.Assertions.assertTrue;
 
