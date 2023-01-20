@@ -5,16 +5,17 @@ import org.openqa.selenium.NoSuchElementException;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 
 public abstract class BasePage {
 
     private WebDriver driver;
+    private Actions action;
 
     public BasePage() {
         System.getProperty("webdriver.chrome.driver", "drivers/chromedriver");
         driver = new ChromeDriver();
         driver.manage().window().maximize();
-
     }
 
     public void visit(String url) {
@@ -53,4 +54,18 @@ public abstract class BasePage {
         return this.driver.findElement(locator).getText();
     }
 
+    public void actionMoveToElementPerform(By locator) {
+        if (this.action == null) {
+            this.action = new Actions(this.driver);
+        }
+        WebElement element = this.driver.findElement(locator);
+        action.moveToElement(element);
+    }
+    public void actionMoveToElementClickPerform(By locator) {
+        if (this.action == null) {
+            this.action = new Actions(this.driver);
+        }
+        WebElement element = this.driver.findElement(locator);
+        action.moveToElement(element).click().build().perform();
+    }
 }
