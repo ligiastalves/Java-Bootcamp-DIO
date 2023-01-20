@@ -5,11 +5,12 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import testesSeleniumWebDriver.pages.DressesPage;
-
+//esse teste vai falhar pois o site que a professora usou não está mais disponivel,
+// e o site que eu usei não tem a mesma funcionalidade do dela
 public class DressesPageTest {
 
     private DressesPage dressesPage;
-    private final String URL = "https://automationexercise.com/";
+    private final String URL = "https://automationexercise.com/products";
 
     @BeforeEach
     void setUp() throws Exception {

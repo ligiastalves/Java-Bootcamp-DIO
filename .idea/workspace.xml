@@ -9,43 +9,8 @@
   <component name="ChangeListManager">
     <list default="true" id="676cccf4-c174-48d4-bdbf-9f6ed32fa7ba" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/ApiDosCorreios.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/ApiDosCorreios.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/CadastrarPessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/CadastrarPessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/Conta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/Conta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/DadosLocalizacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/DadosLocalizacao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/Email.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/Email.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/EnviarMensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/EnviarMensagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/Formato.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/Formato.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/GeradorDeNumeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/GeradorDeNumeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/Mensagem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/Mensagem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/Pessoa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/PlataformaDeEnvio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/PlataformaDeEnvio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/TestesMockito/ServicoEnvioEmail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/testesMockito/ServicoEnvioEmail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testesMockito/CadastrarPessoaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesMockito/CadastrarPessoaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testesMockito/ContaTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesMockito/ContaTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testesMockito/EnviarMensagemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesMockito/EnviarMensagemTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testesMockito/GeradorDeNumerosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesMockito/GeradorDeNumerosTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testesMockito/PlataformaDeEnvioTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesMockito/PlataformaDeEnvioTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/testesMockito/ServicoEnvioEmailTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesMockito/ServicoEnvioEmailTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/ApiDosCorreios.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/ApiDosCorreios.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/CadastrarPessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/CadastrarPessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/Conta.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/Conta.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/DadosLocalizacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/DadosLocalizacao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/Email.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/Email.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/EnviarMensagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/EnviarMensagem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/Formato.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/Formato.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/GeradorDeNumeros.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/GeradorDeNumeros.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/Mensagem.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/Mensagem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/Pessoa.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/Pessoa.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/PlataformaDeEnvio.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/PlataformaDeEnvio.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/TestesMockito/ServicoEnvioEmail.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/TestesMockito/ServicoEnvioEmail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testesMockito/CadastrarPessoaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testesMockito/CadastrarPessoaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testesMockito/ContaTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testesMockito/ContaTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testesMockito/EnviarMensagemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testesMockito/EnviarMensagemTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testesMockito/GeradorDeNumerosTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testesMockito/GeradorDeNumerosTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testesMockito/PlataformaDeEnvioTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testesMockito/PlataformaDeEnvioTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/testesMockito/ServicoEnvioEmailTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/testesMockito/ServicoEnvioEmailTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testesSeleniumWebDriver/pages/BasePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesSeleniumWebDriver/pages/BasePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/testesSeleniumWebDriver/testes/DressesPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/testesSeleniumWebDriver/testes/DressesPageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,6 +61,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\euder\Desktop\Ligia\Meus projetos\Java-Bootcamp-DIO\drivers" />
       <recent name="C:\Users\euder\Desktop\Ligia\Meus projetos\Java-Bootcamp-DIO\src\test\resources" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
@@ -105,90 +71,92 @@
       <recent name="collections.set" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.UserTests">
-    <configuration name="ContaTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.RegisterPageTest.test2">
+    <configuration name="DressesPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testesMockito.*" />
+          <option name="PATTERN" value="testesSeleniumWebDriver.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testesMockito" />
-      <option name="MAIN_CLASS_NAME" value="testesMockito.ContaTest" />
+      <option name="PACKAGE_NAME" value="testesSeleniumWebDriver.testes" />
+      <option name="MAIN_CLASS_NAME" value="testesSeleniumWebDriver.testes.DressesPageTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContaTest.validaQuantidadeDeChamadas" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="DressesPageTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testesMockito.*" />
+          <option name="PATTERN" value="testesSeleniumWebDriver.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testesMockito" />
-      <option name="MAIN_CLASS_NAME" value="testesMockito.ContaTest" />
-      <option name="METHOD_NAME" value="validaQuantidadeDeChamadas" />
+      <option name="PACKAGE_NAME" value="testesSeleniumWebDriver.testes" />
+      <option name="MAIN_CLASS_NAME" value="testesSeleniumWebDriver.testes.DressesPageTest" />
+      <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EscolhendoAOrdemDosTest3" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testesJunit.*" />
+          <option name="PATTERN" value="testesSeleniumWebDriver.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testesJunit" />
-      <option name="MAIN_CLASS_NAME" value="testesJunit.EscolhendoAOrdemDosTest3" />
+      <option name="PACKAGE_NAME" value="testesSeleniumWebDriver.testes" />
+      <option name="MAIN_CLASS_NAME" value="testesSeleniumWebDriver.testes.RegisterPageTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GeradorDeNumerosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterPageTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testesMockito.*" />
+          <option name="PATTERN" value="testesSeleniumWebDriver.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testesMockito" />
-      <option name="MAIN_CLASS_NAME" value="testesMockito.GeradorDeNumerosTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="testesSeleniumWebDriver.testes" />
+      <option name="MAIN_CLASS_NAME" value="testesSeleniumWebDriver.testes.RegisterPageTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UserTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RegisterPageTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java-Bootcamp-DIO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="testesRestAssured.*" />
+          <option name="PATTERN" value="testesSeleniumWebDriver.testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="testesRestAssured" />
-      <option name="MAIN_CLASS_NAME" value="testesRestAssured.UserTests" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="testesSeleniumWebDriver.testes" />
+      <option name="MAIN_CLASS_NAME" value="testesSeleniumWebDriver.testes.RegisterPageTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.UserTests" />
-        <item itemvalue="JUnit.EscolhendoAOrdemDosTest3" />
-        <item itemvalue="JUnit.ContaTest" />
-        <item itemvalue="JUnit.GeradorDeNumerosTest" />
-        <item itemvalue="JUnit.ContaTest.validaQuantidadeDeChamadas" />
+        <item itemvalue="JUnit.RegisterPageTest.test2" />
+        <item itemvalue="JUnit.RegisterPageTest.test" />
+        <item itemvalue="JUnit.RegisterPageTest" />
+        <item itemvalue="JUnit.DressesPageTest" />
+        <item itemvalue="JUnit.DressesPageTest.test" />
       </list>
     </recent_temporary>
   </component>
